@@ -1,0 +1,10 @@
+[package]
+name = "CetanaGPT"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+cetana = "0.0.1"
+inksac = "0.5.0"
+log = "0.4"
+tiktoken = "1.0.1"
